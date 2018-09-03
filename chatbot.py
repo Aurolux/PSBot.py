@@ -4,7 +4,7 @@ import os
 import aiohttp
 
 
-class Chatbot:
+class PSBot:
     def __init__(self, **kwargs):
         for arg in kwargs:
             setattr(self, arg, kwargs[arg])
