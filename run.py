@@ -1,4 +1,4 @@
 import psbot
 
 bot = psbot.PSBot()
-bot.connect()
+bot.connect(psbot.main)
