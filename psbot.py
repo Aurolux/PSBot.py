@@ -50,6 +50,8 @@ class PSBot:
 
 
     async def DATAHANDLEFUNCTION(self, message):
-        print(message + '/n')
+        messages = message.split('\n')
+        for i in messages:
+            print(messages)
         #PS will constantly be sending messages to you. Handle them here.
    
