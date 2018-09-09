@@ -1,5 +1,4 @@
 # Showdown-Bot-Py
-## Run instructions:
 ### Optional: 
 1. Set up a virtualenv if you are on MacOs or Linux (reccomended).
 
