@@ -13,6 +13,5 @@ Run instructions:
 3. Run the bot by typing `python3 run.py` into your terminal or command prompt.
 
 
-
-
+          To update, run `git pull` while in the file of the bot.
 <!--- 2. Install dependencies using `pip install -r requirements.txt` --->
